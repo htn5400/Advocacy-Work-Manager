@@ -1,0 +1,2 @@
+npx, npm, and node
+pip (python package installer), python3, and django
